@@ -16,7 +16,7 @@ Played by J.
 ❧ the mark of the Drift ☙
 
 ## The Last Thing You'll Never Hear
-she/her, "Last"
+they/them (pl.), "Last"
 
 Played by C.
 
