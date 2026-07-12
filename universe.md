@@ -1,17 +1,17 @@
 # Palette
 
 ## Colors
-### Kinetic
-### Smoky
-### Debonair
-### Rusted
+- Kinetic
+- Smoky
+- Debonair
+- Rusted
 
 ## Fibers
-### Old Money vs. Nouveau Riche
-### Debt
-### Plateau
-### Impending Doom
-### Drawdown
+- Old Money vs. Nouveau Riche
+- Debt
+- Plateau
+- Impending Doom
+- Drawdown
 
 # Moons
 ## Etym
