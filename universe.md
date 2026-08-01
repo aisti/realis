@@ -13,6 +13,8 @@
 - Impending Doom
 - Drawdown
 
+---
+
 # Moons
 ## Etym
 A moon of gyrovagues who flow metal with their minds.
@@ -37,8 +39,11 @@ Maintain unchanging dominion.
 ### Sentences
 - +0 The String of Pearls is always bound by its Clasp.
 
+---
+
 # Factions
 ## The Farmers Guild
+### Sentences
 - Farmers Guild brigands always rob the vulnerable.
 - I always siphon energy back to the sapling.
 - I always prune invasive species.
@@ -50,16 +55,27 @@ Maintain unchanging dominion.
   - My leaves always provide protection.
 
 ## The Freemoons Assembly
+### Sentences
 - Freemoons captains always find a new route.
 
 ## The Leo Suzerainty
+### Sentences
 - Leo Orchards are always immaculately planned.
 
+---
+
 # NPCs
+## Lord Crownguard
+Caprice's father and the director of the band's excursions.
+
 ## Tessa Fyonn
+An old schoolmate (briefly) of Caprice.
+### Sentences
 - +0 Fyonn's estates are always planned, down to the placement of individual trees.
 - +1 On my family's estate, I am always unimpeachable.
 
 ## Atros, Unspoken Cruelty
+A being of the Drift, the embodiment of cruelty.
+### Sentences
 - +1 When more than one person faces me, I lead them to hurt one another.
 
