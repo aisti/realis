@@ -6,7 +6,7 @@ is an inverted twilight mirage; psychedelic space and sword and sorcery; mumblin
 Notes and sessions for a game of Realis.
 
 ## Notes
-- The Narrative
-- The Band
-- The Universe
+- [The Narrative](./narrative.md)
+- [The Band](./band.md)
+- [The Universe](./universe.md)
 
