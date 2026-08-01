@@ -1,4 +1,5 @@
-# The Band (name tbd)
+# Forward Crownguard Elite Section III.VIII
+BKA "the Fail Child Escort Squad"
 
 ## Caprice Crownguard
 they/he/she
