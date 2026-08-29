@@ -47,6 +47,15 @@ Treat something important like a game.
 ### Sentences
 - +0: The Whorling Library of Narovi always has the right book.
 
+## Baudekin
+the Highest Throne of the suzerainty.
+
+### Impulse
+Give tribute to someone unworthy.
+
+### Sentences
+- +0 Baudekin servants always know distant secrets.
+
 ---
 
 # Factions
