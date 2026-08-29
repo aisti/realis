@@ -121,3 +121,6 @@ A student of robotics researching living, conscious metals.
 ### Sentences
 - +3 With time to set up, the right ammunition, and a clear pathway, I always hit my target.
 - +0 I always beat the odds.
+
+## Cesare Crownguard
+The star of the suzerainty with a beautiful baritone voice.  Caprice's perfect older brother.  He spoils them.
