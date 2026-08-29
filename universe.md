@@ -119,8 +119,9 @@ A being of the Drift, the embodiment of cruelty.
 ### Sentences
 - +1 When more than one person faces me, I lead them to hurt one another.
 
-## Arlix Pearford
+## ~~Arlix Pearford~~ Isabella Pearford
 A student of robotics researching living, conscious metals.
+she/it
 ### Sentences
 
 

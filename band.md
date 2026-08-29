@@ -32,5 +32,6 @@ Played by B.
 ### Xenagogue
 Cadet, First Order, the Interstellar Mail League
 
-❧ Queen of Peace ☙
+❧ ~~Queen of Peace~~ ☙
+❧ Isabella ☙
 
