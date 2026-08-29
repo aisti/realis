@@ -33,12 +33,22 @@ Give a gift that is hard to get rid of.
 - +0 Orionelle spectral dressmakers always set the trend.
 - +0 Orionelle manors are always protected by ghostly starlight.
 
-## The String of Pearls
-Five moons clasped by House Fyonn.
+## Fyonn
+Chief among the String of Pearls, seven moons clasped by House Fyonn.
 ### Impulse: the White Pearl of Authority
 Maintain unchanging dominion.
 ### Sentences
 - +0 The String of Pearls is always bound by its Clasp.
+- +0 Fyonn's estates are always planned, down to the placement of individual trees.
+- +1 On my family's estate, I am always unimpeachable.
+
+## Donn
+the Black Pearl of Exile.  One of the moons of the String of Pearls.
+
+### Impulse:
+
+### Sentences
+
 
 ## Narovi
 of Spire and Cloud
@@ -103,9 +113,6 @@ Caprice's father and the director of the band's excursions.
 
 ## Tessa Fyonn
 An old schoolmate (briefly) of Caprice.
-### Sentences
-- +0 Fyonn's estates are always planned, down to the placement of individual trees.
-- +1 On my family's estate, I am always unimpeachable.
 
 ## Atros, Unspoken Cruelty
 A being of the Drift, the embodiment of cruelty.
