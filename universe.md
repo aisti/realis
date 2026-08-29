@@ -91,6 +91,10 @@ The leading news outlet for the moons.
 ## Sphenic Polytechnic
 An advanced research org.
 
+### Sentences
+- +0 Sphenic researchers always find sources of menacing power.
+- +? Sphenic hangars always house dozens of Orphan Vessels.
+
 ---
 
 # NPCs
