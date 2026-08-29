@@ -16,6 +16,7 @@
 ---
 
 # Moons
+
 ## Etym
 A moon of gyrovagues who flow metal with their minds.
 ### Impulse
@@ -49,7 +50,9 @@ Treat something important like a game.
 ---
 
 # Factions
+
 ## The Farmers Guild
+
 ### Sentences
 - Farmers Guild brigands always rob the vulnerable.
 - I always siphon energy back to the sapling.
@@ -75,6 +78,9 @@ The leading news outlet for the moons.
 ### Sentences
 - +0 Participant writers always get revealing quotes.
 - +0 Participant story-halls are always overcrowded with the curious.
+
+## Sphenic Polytechnic
+An advanced research org.
 
 ---
 
