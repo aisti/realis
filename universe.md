@@ -34,16 +34,15 @@ Give a gift that is hard to get rid of.
 - +0 Orionelle manors are always protected by ghostly starlight.
 
 ## Fyonn
-Chief among the String of Pearls, seven moons clasped by House Fyonn.
-### Impulse: the White Pearl of Authority
+ The White Pearl of Authority.  Chief among the String of Pearls, five moons clasped by House Fyonn.
+### Impulse:
 Maintain unchanging dominion.
 ### Sentences
 - +0 The String of Pearls is always bound by its Clasp.
 - +0 Fyonn's estates are always planned, down to the placement of individual trees.
-- +1 On my family's estate, I am always unimpeachable.
 
 ## Donn
-the Black Pearl of Exile.  One of the moons of the String of Pearls.
+the Black Pearl of Exile.  Fifth of the moons of the String of Pearls.  A moon for prison.
 
 ### Impulse:
 
@@ -78,7 +77,7 @@ Give tribute to someone unworthy.
 - I always prune invasive species.
 - I always host the best garden parties.
 - I always bury the evidence.
-- **BREACH ACORN:** 
+- **BREACH ACORN:**
   - +3: As long as the first root remains untouched by light or flesh, I always come back eventually.
 - **SIGNAL JAMMER:** (ephemera)
   - +0: My leaves always provide protection.
@@ -113,6 +112,7 @@ Caprice's father and the director of the band's excursions.
 
 ## Tessa Fyonn
 An old schoolmate (briefly) of Caprice.
+- +1 On my family's estate, I am always unimpeachable.
 
 ## Atros, Unspoken Cruelty
 A being of the Drift, the embodiment of cruelty.
