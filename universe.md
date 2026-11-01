@@ -41,6 +41,15 @@ Maintain unchanging dominion.
 - +0 The String of Pearls is always bound by its Clasp.
 - +0 Fyonn's estates are always planned, down to the placement of individual trees.
 
+## Corcra
+The purple pearl of peace.  A moon of rejuvenation and healing, fourth among the String of Pearls.
+### Impulse:
+Guard forgotten knowledge jealously.
+
+### Sentences
+- +1 Corcra's waters always heal the broken.
+- +0 Corcra's monks always guard their secrets.
+
 ## Donn
 the Black Pearl of Exile.  Fifth of the moons of the String of Pearls.  A moon for prison.
 
