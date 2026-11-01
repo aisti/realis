@@ -99,6 +99,7 @@ Give tribute to someone unworthy.
 ## The Leo Suzerainty
 ### Sentences
 - Leo Orchards are always immaculately planned.
+- +0 Leo watchtowers always have a farseeing-glass.
 
 ## The Participant Pearl
 The leading news outlet for the moons.
@@ -122,6 +123,7 @@ Caprice's father and the director of the band's excursions.
 ## Tessa Fyonn
 An old schoolmate (briefly) of Caprice.
 - +1 On my family's estate, I am always unimpeachable.
+- +0 I always wield my lineage as a sharp weapon.
 
 ## Atros, Unspoken Cruelty
 A being of the Drift, the embodiment of cruelty.
