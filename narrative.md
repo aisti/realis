@@ -60,3 +60,17 @@ We submit the gun for engineering analysis on [Baudekin](./universe.md#Baudekin)
 Caprice tells her "there's some kind of Freemoon conspiracy taking place on your dinky planet."  Colton wingmans for Isabella and encourages her to show off for Tessa.  She permits us to visit Donn but says it kind of sucks there.  "Better the void than Donn," goes the common witticism.  But... she is afraid.  It's a place of exile.
 
 Coyote drops into the Drift to observe her emotions.  There is intense love for someone from Donn, and fear for their safety.  Coyote promises his safety, and asserts that we have to continue.  She rejects this - but it tells her that things aren't so simple.  She asks it, why are you doing this?
+
+## Session 5: CORCRA
+2026/11/01
+
+Tessa resists our interest in Donn, and we decide to mask our visit by going to [Corcra](./universe.md#Corcra)  Coyote tries to reverse psych her but fails and she joins us there.
+
+We learn that [Sphenic Polytechnic](./universe.md#)'s [Founder](./universe.md#) has an Unyielding Engine on [Danily](./universe.md#Danily) where it was founded.
+- *J needed to take a break during this set of story beats, so if you know of anything else that should be included or explained please send it!*
+
+We want to dip Isabella in Corcra's waters in order to help her feel more at peace with her feelings, but she is anxious doing so in view of all the tourists visiting the springs.  We instead locate a remote geyser to privately expose her to the groundwaters and help her realize: she is at home in her body, and it is made for water, and this is *right*.  She gains the +2 Ephemeris "Isabella is always rejuvenated by fluid environments."
+
+Last's gonne draws us to information hidden in a monastery and Coyote and Last decide to break in to steal it.  We fail immediately and get sent to Donn (yay!).
+
+Caprice calls Cesare to get us leveraged out; he says 2 months is the best he could possibly do.  Instead Tessa's sovereignty is conceded and Colton & Last leave her in the String of Pearls and head off to Baudekin to plan a prison break instead.
