@@ -43,7 +43,7 @@ The sniper takes the bait, but is no match for the Last Thing You Never Hear's f
 ## Session 4: NAROVI II
 2026/08/29
 
-Last stands over the corpse of the Freemoon sniper.  He seems to have been tracking Arlix for a while, with gear assembled from many different sources to mask the truth.  They pick up the gun - ramshackle but with a few high-end parts that might be traceable with some effort.
+Last stands over the corpse of the Freemoon sniper.  He seems to have been tracking Arlix for a while, with gear assembled from many different sources to mask the truth.  They pick up the gun - ramshackle but with a few high-end parts that might be traceable with some effort.  Not a gonne.
 
 The diamond acorn siphon has grown and threatens us once again.  We use the ephemeris Signal Jammer to protect us for the third time and its narrative function fades, but the acorn realizes to focus on the Queen of Peace herself.  We lose full power and are grounded.
 
@@ -55,7 +55,7 @@ Through weeks of therapeutic work Coyote helps him reach a type of radical accep
 
 The narrasoulic power of the cider ripples over the face of the orphan vessel and it changes form, elongating and becoming more undulating and flowing in form.  The acorn adapts, but the ship's name is now... Isabella. It is neutralized, for now.  We report to Lord Crownguard.
 
-We submit the gonne for engineering analysis on [Baudekin](./universe.md#baudekin) and after study we are approached secretively by a Leo researcher.  We are able to leverage Caprice's royalty to get him to spill:  The metals originated on Donn, one of the String of Pearls of House Fyonn.  It is not clear if Fyonn itself is involved.  We decide to pay Tessa a visit.
+We submit the gun for engineering analysis on [Baudekin](./universe.md#Baudekin) and after study we are approached secretively by a Leo researcher.  We are able to leverage Caprice's royalty to get him to spill:  The metals originated on [Donn](./universe.md#Donn), one of the String of Pearls of House Fyonn.  It is not clear if Fyonn itself is involved.  We decide to pay Tessa a visit.
 
 Caprice tells her "there's some kind of Freemoon conspiracy taking place on your dinky planet."  Colton wingmans for Isabella and encourages her to show off for Tessa.  She permits us to visit Donn but says it kind of sucks there.  "Better the void than Donn," goes the common witticism.  But... she is afraid.  It's a place of exile.
 
